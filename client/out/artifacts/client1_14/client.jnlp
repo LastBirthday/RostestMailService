@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="client.jnlp">
+  <information>
+    <title>Sample JavaFX Application</title>
+    <vendor>Unknown vendor</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="activation-1.1.jar" size="62983" download="eager" />
+    <jar href="client.jar" size="47675" download="eager" />
+    <jar href="com.springsource.org.apache.commons.beanutils-1.7.0.jar" size="188977" download="eager" />
+    <jar href="com.springsource.org.apache.commons.collections-3.2.0.jar" size="578986" download="eager" />
+    <jar href="com.springsource.org.apache.commons.digester-1.6.0.jar" size="168811" download="eager" />
+    <jar href="com.springsource.org.apache.commons.logging-1.0.4.jar" size="38240" download="eager" />
+    <jar href="com.springsource.org.apache.commons.validator-1.3.1.jar" size="149964" download="eager" />
+    <jar href="com.springsource.org.apache.oro-2.0.8.jar" size="65362" download="eager" />
+    <jar href="javax.mail-1.5.5.jar" size="603571" download="eager" />
+    <jar href="sqlite-jdbc-3.8.11.2.jar" size="5575351" download="eager" />
+  </resources>
+  <applet-desc  width="600" height="400" main-class="com.javafx.main.NoJavaFXFallback"  name="client" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.home.Client"  name="client" />
+  <update check="background"/>
+</jnlp>

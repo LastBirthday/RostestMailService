@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="saver">
+    <output-path>$PROJECT_DIR$/out/artifacts/saver</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.home.Saver" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="saver.jar">
+        <element id="module-output" name="saver" />
+      </element>
+      <element id="library" level="project" name="com.sun.mail:javax.mail:1.5.5" />
+      <element id="library" level="project" name="sqlite-jdbc-3.8.11.2" />
+    </root>
+  </artifact>
+</component>

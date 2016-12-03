@@ -1,0 +1,96 @@
+Дата: 2016/06/22 19:46:06 Наименование: 'Test letter' Позиций добавлено: 0\8 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('4', 'Clapsy', '14-11-2010');
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('6', 'Monica', '3-12-2011');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('4', 'Ocean', 'Water');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('5', 'Gas', 'Air');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('6', 'Swamp', 'Land');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('5', '56');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('7', '875');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('9', '100');
+
+Дата: 2016/06/22 19:46:08 Наименование: 'Евгений_Николаевич_Абрамов____21-06-2016___15-22-07___ВСЕ' Позиций добавлено: 15\40 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('7658997094276134501', null, '1', '7658997094276134500', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('2790865325998208613', null, '1', '3492160230472808036', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('841657709346682469', null, '1', '8442607980441237093', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('7617732422885701220', '', null, '', '', '', '', '0', '5093537467963012709', '6128017325302216293', '', '', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '271380');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('7658997094276134500', ' ', null, ' ', ' ', ' ', ' ', '0', '7520198673999066725', '5861209359112205925', ' ', ' ', null, null, 'отсутствует', null, '220.0', null, null, '50.0', '0.0', '0.0', '0');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('4548726572597900900', '', null, '', '', '', '', '0', '3', '8515083040871151205', '', 'B', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '268015');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('3492160230472808036', ' ', null, ' ', ' ', ' ', ' ', '0', '4', '8787607780465047141', ' ', ' ', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '0');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('8442607980441237093', ' ', null, ' ', ' ', ' ', ' ', '0', '5093537467963012709', '6128017325302216293', ' ', ' ', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '0');
+
+Дата: 2016/06/22 19:46:32 Наименование: 'Приборы Dmitrienko D.S. часть 1' Позиций добавлено: 182\192 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:47:07 Наименование: 'Приборы Dmitrienko D.S. часть 2' Позиций добавлено: 285\285 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:47:07 Фотографий перемещено: 10\10
+
+Дата: 2016/06/22 19:49:24 Наименование: 'Test letter' Позиций добавлено: 0\8 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('4', 'Clapsy', '14-11-2010');
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('6', 'Monica', '3-12-2011');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('4', 'Ocean', 'Water');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('5', 'Gas', 'Air');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('6', 'Swamp', 'Land');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('5', '56');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('7', '875');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('9', '100');
+
+Дата: 2016/06/22 19:49:27 Наименование: 'Евгений_Николаевич_Абрамов____21-06-2016___15-22-07___ВСЕ' Позиций добавлено: 15\40 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('7658997094276134501', null, '1', '7658997094276134500', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('2790865325998208613', null, '1', '3492160230472808036', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_TSK has 20 columns but 21 values were supplied В строке: INSERT INTO WDB_TSK VALUES ('841657709346682469', null, '1', '8442607980441237093', null, null, '3898134955614795365', 'WRK', '2001/01/01', '0.0', '0.0', '0.0', 'соответствует', 'соответствует', 'соответствует', 'положительные', 'отсутствует', '0,18', ' ', 'годен', ' ');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('7617732422885701220', '', null, '', '', '', '', '0', '5093537467963012709', '6128017325302216293', '', '', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '271380');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('7658997094276134500', ' ', null, ' ', ' ', ' ', ' ', '0', '7520198673999066725', '5861209359112205925', ' ', ' ', null, null, 'отсутствует', null, '220.0', null, null, '50.0', '0.0', '0.0', '0');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('4548726572597900900', '', null, '', '', '', '', '0', '3', '8515083040871151205', '', 'B', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '268015');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('3492160230472808036', ' ', null, ' ', ' ', ' ', ' ', '0', '4', '8787607780465047141', ' ', ' ', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '0');
+java.sql.SQLException: table WDB_DEV has 21 columns but 23 values were supplied В строке: INSERT INTO WDB_DEV VALUES ('8442607980441237093', ' ', null, ' ', ' ', ' ', ' ', '0', '5093537467963012709', '6128017325302216293', ' ', ' ', null, null, 'отсутствует', null, '0.0', null, null, '50.0', '0.0', '0.0', '0');
+
+Дата: 2016/06/22 19:49:54 Наименование: 'Приборы Dmitrienko D.S. часть 1' Позиций добавлено: 182\192 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:50:31 Наименование: 'Приборы Dmitrienko D.S. часть 2' Позиций добавлено: 285\285 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:50:32 Фотографий перемещено: 10\10
+
+Дата: 2016/06/22 19:51:08 Наименование: 'Приборы Dmitrienko D.S. часть 1' Позиций добавлено: 0\192 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:51:08 Наименование: 'Приборы Dmitrienko D.S. часть 2' Позиций добавлено: 0\285 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:51:33 Наименование: 'Test letter' Позиций добавлено: 0\8 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('4', 'Clapsy', '14-11-2010');
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('6', 'Monica', '3-12-2011');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('4', 'Ocean', 'Water');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('5', 'Gas', 'Air');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('6', 'Swamp', 'Land');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('5', '56');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('7', '875');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('9', '100');
+
+Дата: 2016/06/22 19:51:57 Наименование: 'log' Позиций добавлено: 0\0 Статус: КРИТИЧЕСКАЯ ОШИБКА
+Ошибка при разархивировании файла. Архив в неизвестном формате, либо поврежден.
+
+Дата: 2016/06/22 19:52:33 Наименование: 'log' Позиций добавлено: 0\0 Статус: КРИТИЧЕСКАЯ ОШИБКА
+Ошибка при разархивировании файла. Архив в неизвестном формате, либо поврежден.
+
+Дата: 2016/06/22 19:52:33 Наименование: 'Приборы Dmitrienko D.S. часть 1' Позиций добавлено: 0\192 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:52:33 Наименование: 'Приборы Dmitrienko D.S. часть 2' Позиций добавлено: 0\285 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:54:38 Наименование: 'log' Позиций добавлено: 0\0 Статус: КРИТИЧЕСКАЯ ОШИБКА
+Ошибка при разархивировании файла. Архив в неизвестном формате, либо поврежден.
+
+Дата: 2016/06/22 19:54:39 Наименование: 'Приборы Dmitrienko D.S. часть 1' Позиций добавлено: 0\192 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:54:39 Наименование: 'Приборы Dmitrienko D.S. часть 2' Позиций добавлено: 0\285 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+
+Дата: 2016/06/22 19:55:06 Наименование: 'log' Позиций добавлено: 0\0 Статус: КРИТИЧЕСКАЯ ОШИБКА
+Ошибка при разархивировании файла. Архив в неизвестном формате, либо поврежден.
+
+Дата: 2016/06/22 19:55:06 Наименование: 'Test letter' Позиций добавлено: 0\8 Статус: ОБРАБОТАНО И ПЕРЕМЕЩЕНО В АРХИВ
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('4', 'Clapsy', '14-11-2010');
+java.sql.SQLException: no such table: First В строке: INSERT INTO First VALUES ('6', 'Monica', '3-12-2011');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('4', 'Ocean', 'Water');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('5', 'Gas', 'Air');
+java.sql.SQLException: no such table: Second В строке: INSERT INTO Second VALUES ('6', 'Swamp', 'Land');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('5', '56');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('7', '875');
+java.sql.SQLException: no such table: Third В строке: INSERT INTO Third VALUES ('9', '100');
+
